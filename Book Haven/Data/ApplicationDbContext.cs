@@ -1,4 +1,5 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using Book_Haven.Models;
+using Microsoft.EntityFrameworkCore;
 
 namespace Book_Haven.Data
 {
@@ -8,6 +9,8 @@ namespace Book_Haven.Data
         { 
 
         }
+
+        public DbSet<Category> Categories { get; set; }
 
     }
 }
