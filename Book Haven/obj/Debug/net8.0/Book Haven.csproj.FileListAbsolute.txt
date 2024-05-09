@@ -1,0 +1,31 @@
+C:\Users\lab_services_student\source\repos\PROG ICE TASK 4 & 5\PROG-ICE-TASK-4-5\Book Haven\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\lab_services_student\source\repos\PROG ICE TASK 4 & 5\PROG-ICE-TASK-4-5\Book Haven\bin\Debug\net8.0\appsettings.json
+C:\Users\lab_services_student\source\repos\PROG ICE TASK 4 & 5\PROG-ICE-TASK-4-5\Book Haven\bin\Debug\net8.0\Book Haven.staticwebassets.runtime.json
+C:\Users\lab_services_student\source\repos\PROG ICE TASK 4 & 5\PROG-ICE-TASK-4-5\Book Haven\bin\Debug\net8.0\Book Haven.exe
+C:\Users\lab_services_student\source\repos\PROG ICE TASK 4 & 5\PROG-ICE-TASK-4-5\Book Haven\bin\Debug\net8.0\Book Haven.deps.json
+C:\Users\lab_services_student\source\repos\PROG ICE TASK 4 & 5\PROG-ICE-TASK-4-5\Book Haven\bin\Debug\net8.0\Book Haven.runtimeconfig.json
+C:\Users\lab_services_student\source\repos\PROG ICE TASK 4 & 5\PROG-ICE-TASK-4-5\Book Haven\bin\Debug\net8.0\Book Haven.dll
+C:\Users\lab_services_student\source\repos\PROG ICE TASK 4 & 5\PROG-ICE-TASK-4-5\Book Haven\bin\Debug\net8.0\Book Haven.pdb
+C:\Users\lab_services_student\source\repos\PROG ICE TASK 4 & 5\PROG-ICE-TASK-4-5\Book Haven\obj\Debug\net8.0\Book Haven.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lab_services_student\source\repos\PROG ICE TASK 4 & 5\PROG-ICE-TASK-4-5\Book Haven\obj\Debug\net8.0\Book Haven.AssemblyInfoInputs.cache
+C:\Users\lab_services_student\source\repos\PROG ICE TASK 4 & 5\PROG-ICE-TASK-4-5\Book Haven\obj\Debug\net8.0\Book Haven.AssemblyInfo.cs
+C:\Users\lab_services_student\source\repos\PROG ICE TASK 4 & 5\PROG-ICE-TASK-4-5\Book Haven\obj\Debug\net8.0\Book Haven.csproj.CoreCompileInputs.cache
+C:\Users\lab_services_student\source\repos\PROG ICE TASK 4 & 5\PROG-ICE-TASK-4-5\Book Haven\obj\Debug\net8.0\Book Haven.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lab_services_student\source\repos\PROG ICE TASK 4 & 5\PROG-ICE-TASK-4-5\Book Haven\obj\Debug\net8.0\Book Haven.RazorAssemblyInfo.cache
+C:\Users\lab_services_student\source\repos\PROG ICE TASK 4 & 5\PROG-ICE-TASK-4-5\Book Haven\obj\Debug\net8.0\Book Haven.RazorAssemblyInfo.cs
+C:\Users\lab_services_student\source\repos\PROG ICE TASK 4 & 5\PROG-ICE-TASK-4-5\Book Haven\obj\Debug\net8.0\Book Haven.sourcelink.json
+C:\Users\lab_services_student\source\repos\PROG ICE TASK 4 & 5\PROG-ICE-TASK-4-5\Book Haven\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\lab_services_student\source\repos\PROG ICE TASK 4 & 5\PROG-ICE-TASK-4-5\Book Haven\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\lab_services_student\source\repos\PROG ICE TASK 4 & 5\PROG-ICE-TASK-4-5\Book Haven\obj\Debug\net8.0\staticwebassets\msbuild.Book Haven.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\lab_services_student\source\repos\PROG ICE TASK 4 & 5\PROG-ICE-TASK-4-5\Book Haven\obj\Debug\net8.0\staticwebassets\msbuild.build.Book Haven.props
+C:\Users\lab_services_student\source\repos\PROG ICE TASK 4 & 5\PROG-ICE-TASK-4-5\Book Haven\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Book Haven.props
+C:\Users\lab_services_student\source\repos\PROG ICE TASK 4 & 5\PROG-ICE-TASK-4-5\Book Haven\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Book Haven.props
+C:\Users\lab_services_student\source\repos\PROG ICE TASK 4 & 5\PROG-ICE-TASK-4-5\Book Haven\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\lab_services_student\source\repos\PROG ICE TASK 4 & 5\PROG-ICE-TASK-4-5\Book Haven\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\lab_services_student\source\repos\PROG ICE TASK 4 & 5\PROG-ICE-TASK-4-5\Book Haven\obj\Debug\net8.0\scopedcss\bundle\Book Haven.styles.css
+C:\Users\lab_services_student\source\repos\PROG ICE TASK 4 & 5\PROG-ICE-TASK-4-5\Book Haven\obj\Debug\net8.0\scopedcss\projectbundle\Book Haven.bundle.scp.css
+C:\Users\lab_services_student\source\repos\PROG ICE TASK 4 & 5\PROG-ICE-TASK-4-5\Book Haven\obj\Debug\net8.0\Book Haven.dll
+C:\Users\lab_services_student\source\repos\PROG ICE TASK 4 & 5\PROG-ICE-TASK-4-5\Book Haven\obj\Debug\net8.0\refint\Book Haven.dll
+C:\Users\lab_services_student\source\repos\PROG ICE TASK 4 & 5\PROG-ICE-TASK-4-5\Book Haven\obj\Debug\net8.0\Book Haven.pdb
+C:\Users\lab_services_student\source\repos\PROG ICE TASK 4 & 5\PROG-ICE-TASK-4-5\Book Haven\obj\Debug\net8.0\Book Haven.genruntimeconfig.cache
+C:\Users\lab_services_student\source\repos\PROG ICE TASK 4 & 5\PROG-ICE-TASK-4-5\Book Haven\obj\Debug\net8.0\ref\Book Haven.dll
