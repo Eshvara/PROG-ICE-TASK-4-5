@@ -3,15 +3,23 @@
   "WorkspaceRootPath": "C:\\Users\\lab_services_student\\source\\repos\\PROG ICE TASK 4 \u0026 5\\PROG-ICE-TASK-4-5\\Book Haven\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lab_services_student\\source\\repos\\PROG ICE TASK 4 \u0026 5\\PROG-ICE-TASK-4-5\\Book Haven\\Migrations\\20240509075906_add-migration AddCategoryTableToDb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240509075906_add-migration AddCategoryTableToDb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A9D39321-1E99-4F7A-8AD2-40D0E95027BE}|Book Haven.csproj|c:\\users\\lab_services_student\\source\\repos\\prog ice task 4 \u0026 5\\prog-ice-task-4-5\\book haven\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A9D39321-1E99-4F7A-8AD2-40D0E95027BE}|Book Haven.csproj|solutionrelative:views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9D39321-1E99-4F7A-8AD2-40D0E95027BE}|Book Haven.csproj|c:\\users\\lab_services_student\\source\\repos\\prog ice task 4 \u0026 5\\prog-ice-task-4-5\\book haven\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9D39321-1E99-4F7A-8AD2-40D0E95027BE}|Book Haven.csproj|solutionrelative:controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9D39321-1E99-4F7A-8AD2-40D0E95027BE}|Book Haven.csproj|c:\\users\\lab_services_student\\source\\repos\\prog ice task 4 \u0026 5\\prog-ice-task-4-5\\book haven\\migrations\\20240509075906_add-migration addcategorytabletodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9D39321-1E99-4F7A-8AD2-40D0E95027BE}|Book Haven.csproj|solutionrelative:migrations\\20240509075906_add-migration addcategorytabletodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A9D39321-1E99-4F7A-8AD2-40D0E95027BE}|Book Haven.csproj|C:\\Users\\lab_services_student\\source\\repos\\PROG ICE TASK 4 \u0026 5\\PROG-ICE-TASK-4-5\\Book Haven\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A9D39321-1E99-4F7A-8AD2-40D0E95027BE}|Book Haven.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A9D39321-1E99-4F7A-8AD2-40D0E95027BE}|Book Haven.csproj|c:\\users\\lab_services_student\\source\\repos\\prog ice task 4 \u0026 5\\prog-ice-task-4-5\\book haven\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A9D39321-1E99-4F7A-8AD2-40D0E95027BE}|Book Haven.csproj|C:\\Users\\lab_services_student\\source\\repos\\PROG ICE TASK 4 \u0026 5\\PROG-ICE-TASK-4-5\\Book Haven\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A9D39321-1E99-4F7A-8AD2-40D0E95027BE}|Book Haven.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -35,6 +43,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\PROG ICE TASK 4 \u0026 5\\PROG-ICE-TASK-4-5\\Book Haven\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Category\\Index.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\PROG ICE TASK 4 \u0026 5\\PROG-ICE-TASK-4-5\\Book Haven\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "Views\\Category\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-09T08:12:26.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\PROG ICE TASK 4 \u0026 5\\PROG-ICE-TASK-4-5\\Book Haven\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\PROG ICE TASK 4 \u0026 5\\PROG-ICE-TASK-4-5\\Book Haven\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "Controllers\\CategoryController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T08:08:44.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "20240509075906_add-migration AddCategoryTableToDb.cs",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\PROG ICE TASK 4 \u0026 5\\PROG-ICE-TASK-4-5\\Book Haven\\Migrations\\20240509075906_add-migration AddCategoryTableToDb.cs",
               "RelativeDocumentMoniker": "Migrations\\20240509075906_add-migration AddCategoryTableToDb.cs",
@@ -47,7 +81,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\PROG ICE TASK 4 \u0026 5\\PROG-ICE-TASK-4-5\\Book Haven\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -55,12 +89,11 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAACHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T07:34:18.38Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-09T07:34:18.38Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\PROG ICE TASK 4 \u0026 5\\PROG-ICE-TASK-4-5\\Book Haven\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
@@ -68,12 +101,11 @@
               "RelativeToolTip": "Data\\ApplicationDbContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA3AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T07:31:42.634Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-09T07:31:42.634Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\PROG ICE TASK 4 \u0026 5\\PROG-ICE-TASK-4-5\\Book Haven\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -85,7 +117,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\PROG ICE TASK 4 \u0026 5\\PROG-ICE-TASK-4-5\\Book Haven\\Models\\Category.cs",
               "RelativeDocumentMoniker": "Models\\Category.cs",
